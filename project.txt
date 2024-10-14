@@ -1,0 +1,9 @@
+ishning vaziyfasi!
+
+vagon numberini aniqlash +
+vagon numberini o'qish +
+vagon numberini 8 ta sonligini tekshirish +
+vagon numberini txt fayilga yozish +
+vagon numberini aniqlagandan keyin uning raqami bilan saqlash yaniy images degan papka yaratib uning yaniy vagon raqami xaqiyqiy bo'lsa shu rasimni vagon no'meri bilan saqlash +
+vagon numberini xaqiqiyligini tekshirish yaniy number.txt fayildagi numberlar ichidan qidirish agan bor bo'lsa detected_vagon_numbers.txt yozish +
+best.pt orqaliy vagon tezligini aniqlash yaniy km/soat da 
